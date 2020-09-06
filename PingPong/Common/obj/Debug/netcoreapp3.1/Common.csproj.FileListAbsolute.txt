@@ -1,0 +1,13 @@
+C:\Code\PingPong\PingPong\Common\bin\Debug\netcoreapp3.1\Common.exe
+C:\Code\PingPong\PingPong\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Code\PingPong\PingPong\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+C:\Code\PingPong\PingPong\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+C:\Code\PingPong\PingPong\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Code\PingPong\PingPong\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Code\PingPong\PingPong\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Code\PingPong\PingPong\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Code\PingPong\PingPong\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Code\PingPong\PingPong\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Code\PingPong\PingPong\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Code\PingPong\PingPong\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Code\PingPong\PingPong\Common\obj\Debug\netcoreapp3.1\Common.genruntimeconfig.cache
